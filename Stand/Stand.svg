@@ -26,11 +26,11 @@
      showgrid="false"
      inkscape:zoom="4.7572176"
      inkscape:cx="487.68003"
-     inkscape:cy="330.44526"
-     inkscape:window-width="2560"
-     inkscape:window-height="1440"
+     inkscape:cy="330.55036"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
      inkscape:window-x="1728"
-     inkscape:window-y="0"
+     inkscape:window-y="25"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1" />
   <defs
@@ -52,30 +52,22 @@
          style="opacity:0.86;fill:none;stroke:#ff0000;stroke-width:0.26458333;vector-effect:non-scaling-stroke;-inkscape-stroke:hairline;stroke-dasharray:none"
          d="m 110.06006,114.71894 a 20,20 0 0 1 -20.000001,20 20,20 0 0 1 -20,-20 20,20 0 0 1 20,-19.999999 20,20 0 0 1 20.000001,19.999999 z" />
     </g>
-    <g
-       id="g9633"
-       style="vector-effect:non-scaling-stroke;-inkscape-stroke:hairline;stroke-width:0.26458333;stroke-dasharray:none">
-      <g
-         id="g9626"
-         style="vector-effect:non-scaling-stroke;-inkscape-stroke:hairline;stroke-width:0.26458333;stroke-dasharray:none">
-        <path
-           style="opacity:0.86;fill:none;stroke:#ff0000;stroke-width:0.26458333;vector-effect:non-scaling-stroke;-inkscape-stroke:hairline;stroke-dasharray:none"
-           d="m 117.37216,82.260612 a 0.5,0.5 0 0 1 0.50023,0.500228 0.5,0.5 0 0 1 -0.50023,0.500228 0.5,0.5 0 0 1 -0.49971,-0.500228 0.5,0.5 0 0 1 0.49971,-0.500228 z"
-           id="path7320" />
-        <path
-           style="opacity:0.86;fill:none;stroke:#ff0000;stroke-width:0.26458333;vector-effect:non-scaling-stroke;-inkscape-stroke:hairline;stroke-dasharray:none"
-           d="m 117.37216,74.060596 a 0.5,0.5 0 0 1 0.50023,0.500228 0.5,0.5 0 0 1 -0.50023,0.500227 0.5,0.5 0 0 1 -0.49971,-0.500227 0.5,0.5 0 0 1 0.49971,-0.500228 z"
-           id="path7316" />
-        <path
-           style="opacity:0.86;fill:none;stroke:#ff0000;stroke-width:0.26458333;vector-effect:non-scaling-stroke;-inkscape-stroke:hairline;stroke-dasharray:none"
-           d="m 106.34131,69.654663 h 6.44275 v 18.000452 h -6.44275 z"
-           id="path7314" />
-      </g>
-      <path
-         style="opacity:0.86;fill:none;stroke:#ff0000;stroke-width:0.26458333;vector-effect:non-scaling-stroke;-inkscape-stroke:hairline;stroke-dasharray:none"
-         d="M 110.90331,58.654818 A 20,20 0 0 0 90.902979,78.655147 20,20 0 0 0 110.90331,98.65496 20,20 0 0 0 130.48713,82.654903 h -6.9324 v -8.000028 h 6.94325 A 20,20 0 0 0 110.90331,58.654818 Z"
-         id="path420-2" />
-    </g>
+    <path
+       style="opacity:0.86;vector-effect:non-scaling-stroke;fill:none;stroke:#ff0000;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline"
+       d="m 117.37216,83.261 a 0.5,0.5 0 0 1 0.50023,0.500228 0.5,0.5 0 0 1 -0.50023,0.500228 0.5,0.5 0 0 1 -0.49971,-0.500228 0.5,0.5 0 0 1 0.49971,-0.500228 z"
+       id="path7320" />
+    <path
+       style="opacity:0.86;vector-effect:non-scaling-stroke;fill:none;stroke:#ff0000;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline"
+       d="m 117.37216,73.061 a 0.5,0.5 0 0 1 0.50023,0.500228 0.5,0.5 0 0 1 -0.50023,0.500227 0.5,0.5 0 0 1 -0.49971,-0.500227 0.5,0.5 0 0 1 0.49971,-0.500228 z"
+       id="path7316" />
+    <path
+       style="opacity:0.86;vector-effect:non-scaling-stroke;fill:none;stroke:#ff0000;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline"
+       d="m 106.34131,69.654663 h 6.44275 v 18.000452 h -6.44275 z"
+       id="path7314" />
+    <path
+       style="opacity:0.86;vector-effect:non-scaling-stroke;fill:none;stroke:#ff0000;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline"
+       d="M 110.90331,58.654818 A 20,20 0 0 0 90.902979,78.655147 20,20 0 0 0 110.90331,98.65496 20,20 0 0 0 130.48713,82.654903 h -6.9324 v -8.000028 h 6.94325 A 20,20 0 0 0 110.90331,58.654818 Z"
+       id="path420-2" />
     <path
        style="opacity:0.86;vector-effect:non-scaling-stroke;fill:none;stroke:#ff0000;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline"
        d="m 131.55723,94.719133 a 20,20 0 0 0 -19.99981,19.999807 20,20 0 0 0 19.99981,19.99981 20,20 0 0 0 17.84904,-10.99985 h -20.87934 v -17.99993 h 20.87934 A 20,20 0 0 0 131.55723,94.719133 Z"
