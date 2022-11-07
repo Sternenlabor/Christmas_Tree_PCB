@@ -24,13 +24,13 @@
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="4.7572176"
-     inkscape:cx="404.22788"
-     inkscape:cy="325.08498"
+     inkscape:zoom="19.02887"
+     inkscape:cx="405.80444"
+     inkscape:cy="434.15609"
      inkscape:window-width="1728"
      inkscape:window-height="1027"
-     inkscape:window-x="0"
-     inkscape:window-y="38"
+     inkscape:window-x="5"
+     inkscape:window-y="39"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1" />
   <defs
@@ -110,5 +110,10 @@
          style="font-weight:bold;-inkscape-font-specification:'sans-serif Bold'"
          id="path7231" />
     </g>
+    <path
+       style="opacity:0.86;vector-effect:non-scaling-stroke;fill:none;stroke:#0000ff;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline"
+       d="m 109.2827,118.71896 -6.57089,0 v -8.00003 h 6.58174"
+       id="path420-2"
+       sodipodi:nodetypes="cccc" />
   </g>
 </svg>
