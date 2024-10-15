@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "LED_SK6812_4020")(type "KiCad")(uri "${KIPRJMOD}/parts/LED_SK6812_4020.kicad_sym")(options "")(descr ""))
+)
